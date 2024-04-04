@@ -522,6 +522,8 @@
       "Net-(FB4-Pad1)": "Power",
       "Net-(JP1-B)": "Power",
       "Net-(JP2-B)": "Power",
+      "Net-(LED34-GND)": "Power",
+      "Net-(LED36-GND)": "Power",
       "VBUS": "Power"
     },
     "netclass_patterns": [
