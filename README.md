@@ -3,4 +3,4 @@
 
  -------------
 
-This is a joint project with concept by The Reflex (Pedro Quaresma), and design by TweetyDaBird (Markus Knutsson).
+This is a joint project with concept by 'The Reflex' (Pedro Quaresma), and design by 'TweetyDaBird' (Markus Knutsson).
