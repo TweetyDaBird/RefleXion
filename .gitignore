@@ -29,5 +29,4 @@ fp-info-cache
 *.csv
 /Gerber/*
 
-*/production
-RefleXion X65/PCB/production
+*/production/*
